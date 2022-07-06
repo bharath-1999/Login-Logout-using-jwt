@@ -1,4 +1,4 @@
-# Login-Logout-using-jwt
+# Login-Logout functionality using json web token (jwt)
 
 ### Design Pattern -- MVC
 ### UI  --Html,Css,Javascript
